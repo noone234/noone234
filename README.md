@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**noone234/noone234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Chris Wolfe, a full stack software developer who wore many hats over 20+ years of a professional career. I'm passionate about solving real-world problems, helping engineers and teams grow!
 
-Here are some ideas to get you started:
+## 🌱 Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- AI
+  - Fast.AI course
+  - AWS Bedrock
+- Books
+  - Engineering Management for the Rest of Us
+  - Staff Engineer: Leadership Beyond Management
+  - The Manager's Handbook
+  - I've read a lot of books. Don't get me started.
+
+## 📰 Certifications
+
+- AWS Certified Solutions Architect Professional
+
+## 🛠️ Languages and Tools
+
+Oh, this is a long list. Coming soon.
