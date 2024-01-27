@@ -46,7 +46,7 @@ Oh, this is a long and incomplete list.
 
 #### Cloud
 
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazonaws&logoColor=fff&style=for-the-badge)&nbsp;
 
 #### CI/CD/IaC
 
