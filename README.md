@@ -41,7 +41,8 @@ Oh, this is a long and incomplete list.
 
 #### Operating System (OS)
 
-![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)&nbsp;
+![macOS](https://img.shields.io/badge/macOS-000?logo=macos&logoColor=fff&style=for-the-badge)&nbsp;
 
 #### Cloud
 
